@@ -86,11 +86,11 @@ The data is freely available as it comes directly from the SERP page. The user t
 
 ## Challenges
 
-Search Engines such as Google and Bing guard their ranking parameters as secrets. So, for some keywords, the challenge would be to parse the content on some of the URLs which might be using some uncommon platform to generate their website. There, the URLs might not reveal why they appeared at the top, other than the fact that they were indeed referenced by some website which have a high Domain Authority on the internet. However, some insights can still be found which can then be inferred as common patterns. 
+Search Engines such as Google and Bing guard their ranking parameters as secrets. Therefore, having the best of the intentions, sometimes it could still be hard to get any inference from the program results. Also, for some keywords, the challenge could be to parse the content on various URLs which might be using some uncommon platform to generate their website. There, the URLs might not reveal why they appeared at the top, other than the fact that they were indeed referenced by some website which have a high Domain Authority on the internet. However, some insights can still be found which can then be inferred as common patterns. 
 
 ## What next?
 
-To make the project code fully automated, efforts can be made such that instead of the user doing the copy-pasting of the URLs, the URLs can directly be gathered from the SERP, and can then be fed as input.
+To make the project code fully automated, efforts can be made such that instead of the user doing the copy-pasting of the URLs, the URLs can directly be gathered from the SERP, and can then be fed as input automatically.
 
 ## Acknowledgments
 
