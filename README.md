@@ -29,7 +29,7 @@ Here is the process of using the code provided as a solution. It should be usefu
 
 **Packages Requirements**
 
-* requirements.txt
+* [requirements.txt](requirements.txt)
 
 **Inputs**
 
@@ -39,13 +39,13 @@ Here is the process of using the code provided as a solution. It should be usefu
 
 **Output (will be created automatically)**
 
-* [PROJ01_AI_NLP_HTML_OUTPUT.HTML](PROJ01_AI_NLP_HTML_OUTPUT.HTML)
+* [PROJ01_AI_NLP_HTML_OUTPUT.HTML](PROJ01_AI_NLP_HTML_OUTPUT.HTML) (Sample output)
 
 **Runtime Code**
 
 * [PROJ01-using-ai-nlp-to-find-ranking-seo-parameters-from-list-of-top-google-serp-urls.py](PROJ01-using-ai-nlp-to-find-ranking-seo-parameters-from-list-of-top-google-serp-urls.py)
 
-**CLI Run Command**
+**CLI Run Commands (BASH/ZSH/Linux)**
 
 ```
 # Install packages
@@ -77,12 +77,12 @@ The output HTML file thus created after the successful run of the program will h
 - TITLE_TAG_VALUE 
 - TOP20_WORDS_STRING_HTML 
 
-Final note: After analyzing all these parameters for every input URL, the user can infer some common ranking factors for his/her own content to be published, and then make changes accordingly into the SEO strategy.
+**Final note:** After analyzing all these parameters for every input URL, the user can infer some common ranking factors for his/her own content to be published, and then make changes accordingly into the SEO strategy.
 
 
 ## Data sources and AI methods
 
-The data is freely available as it comes directly from the SERP page. The user then copies the URLs of the top ranking pages in a text file, as input data. The program then parses the URL from the internet and gathers useful insights, and outputs results as a single HTML webpage.
+The data is freely available as it comes directly from the SERP page. The user then copies the URLs of the top ranking pages in a text file, as input data. The program then parses the URL from the internet and gathers useful insights, and outputs results as a single HTML webpage. The AI methods used for this project makes extensive use of the NLP techniques.
 
 ## Challenges
 
