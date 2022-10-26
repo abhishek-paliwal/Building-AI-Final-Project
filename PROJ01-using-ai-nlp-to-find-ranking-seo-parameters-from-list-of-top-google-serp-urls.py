@@ -69,7 +69,7 @@ myhostname = os.uname()[1] ;
 dirpath = '/GitHub/Building-AI-Project' ;
 rake_stop_dir = home + dirpath + '/PROJ01-PYTHON-RAKE-SmartStoplist.txt' ;
 #working_directory = home_windows + '/Desktop/Y/' ;
-working_directory = dirpath + '/' ;
+working_directory = home + dirpath + '/' ;
 
 ####   
 ## PRINTING IMPORTANT PATHS
@@ -82,7 +82,7 @@ print('') ## empty line
 prefix_dateformat="%Y%m%d"
 prefix_today = datetime.strftime(datetime.now(), prefix_dateformat)
 NLP_URLS_TEXT_FILE = working_directory + 'PROJ01-ALL-URLS-FOR-NLP.txt'
-OUTPUT_HTML_FILE = working_directory + str(prefix_today) + '-PROJ01_AI_NLP_HTML_OUTPUT.HTML'
+OUTPUT_HTML_FILE = working_directory + 'PROJ01_AI_NLP_HTML_OUTPUT.HTML'
 ##
 dateformat="%Y-%m-%d %H:%M"
 TIME_NOW = datetime.strftime(datetime.now(), dateformat)
