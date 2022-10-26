@@ -34,16 +34,16 @@ Here is the process of using the code provided as a solution. It should be usefu
 **Inputs**
 
 * [PROJ01-PYTHON-RAKE-SmartStoplist.txt](PROJ01-PYTHON-RAKE-SmartStoplist.txt)
-* PROJ01-ALL-URLS-FOR-NLP.txt (List of top 5-10 top ranking URLs from SERP)
+* [PROJ01-ALL-URLS-FOR-NLP.txt](PROJ01-ALL-URLS-FOR-NLP.txt) (List of top 5-10 top ranking URLs from SERP)
 * Eg., Our list of URLs include top search results for this chosen keyword: `mummy pizza toast`
 
 **Output (will be created automatically)**
 
-* PROJ01_AI_NLP_HTML_OUTPUT.HTML
+* [PROJ01_AI_NLP_HTML_OUTPUT.HTML](PROJ01_AI_NLP_HTML_OUTPUT.HTML)
 
 **Runtime Code**
 
-PROJ01-using-ai-nlp-to-find-ranking-seo-parameters-from-list-of-top-google-serp-urls.py
+* [PROJ01-using-ai-nlp-to-find-ranking-seo-parameters-from-list-of-top-google-serp-urls.py](PROJ01-using-ai-nlp-to-find-ranking-seo-parameters-from-list-of-top-google-serp-urls.py)
 
 **CLI Run Command**
 
