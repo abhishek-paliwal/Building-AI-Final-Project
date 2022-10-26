@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+matplotlib==3.4.2
+newspaper==0.1.0.7
+newspaper3k==0.2.8
+RAKE==1.0
