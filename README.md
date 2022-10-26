@@ -1,4 +1,6 @@
-# SEO - Finding possible predictive parameters for top ranking in Google using NLP (Final project for the Building AI course)
+# SEO - Finding possible predictive parameters for top ranking in Google using NLP
+
+(Final project for the Building AI course)
 
 ## Summary
 
